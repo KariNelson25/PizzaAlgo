@@ -1,3 +1,7 @@
 call dominos
 add cheese
 add pep
+add banana peppers
+add soda
+pay over the phone
+add tip
