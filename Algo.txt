@@ -1,3 +1,8 @@
 call dominos
 add cheese
 add pep
+add peppers
+pay
+add tip
+sign receipt
+order pizza the next day
